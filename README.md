@@ -15,11 +15,14 @@ A **Digital Visitor Management System** built using **Python (Tkinter)** and **M
 
 ## 🖼 Screenshots
 
-| GUI View | Exported Excel Report |
+| GUI View |
 |----------|----------------------|
-| ![GUI Screenshot](images/gui.png) | ![Excel Screenshot](images/excetReport.png) |
+| ![GUI Screenshot](images/gui.png) | ![Excel Screenshot](images/exportingdata.png) |
 
----
+| Excel Report View |
+|----------------------|
+| ![Combined Screenshot](excetReport/combined.png) |
+
 
 ## 🛠 Tech Stack
 
