@@ -17,7 +17,7 @@ A **Digital Visitor Management System** built using **Python (Tkinter)** and **M
 
 | GUI View | Exported Excel Report |
 |----------|----------------------|
-| ![GUI Screenshot](images/gui.png) | ![Excel Screenshot](images/excel.png) |
+| ![GUI Screenshot](images/gui.png) | ![Excel Screenshot](images/excelReport.png) |
 
 ---
 
