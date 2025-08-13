@@ -21,7 +21,7 @@ A **Digital Visitor Management System** built using **Python (Tkinter)** and **M
 
 | Excel Report View |
 |----------------------|
-| ![Combined Screenshot](excetReport/combined.png) |
+| ![Combined Screenshot](images/excetReport.png) |
 
 
 ## 🛠 Tech Stack
